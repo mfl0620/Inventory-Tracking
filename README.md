@@ -1,0 +1,2 @@
+# Inventory Tracker
+I am developing this application to assist in tracking the inventory levels of a product manufactured by a technical quartz company. The prupose is to track and calculate manufactured quantities, as well as available raw material.

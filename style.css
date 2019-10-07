@@ -1,0 +1,22 @@
+
+.form-buttons{
+    margin-top:15px;
+}
+
+.input-width{
+    max-width: 200px;
+}
+
+.prepend-width{
+    min-width:100px;    
+}
+
+.input-margin{
+    
+}
+
+.width{
+    max-width: 200px;
+    min-width: 200px;
+}
+
